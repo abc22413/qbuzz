@@ -1,2 +1,2 @@
-# QBuzz
-Buzzer substitute but without player limit and for free
+# QBuzzer
+Personal buzzer system
